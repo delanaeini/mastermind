@@ -4,7 +4,7 @@ A game of mastermind with numbers
 
 ## Downloading the Game
 
-Download the game and open the terminal to the game's folder. Enter 
+Download the game and open the terminal to the game's folder. Enter the command below to start the game.
 ```
 python mastermind.py
 ```
